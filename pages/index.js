@@ -52,7 +52,7 @@ export default function Home() {
             </Widget>
             <Footer/>
           </QuizContainer>
-          <GitHubCorner projectUrl = "https:github.com/gabriel52"/>
+          <GitHubCorner projectUrl = "https://github.com/gabriel52"/>
       </QuizBackground>
     </>
   ) 
